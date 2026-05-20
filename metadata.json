@@ -1,0 +1,6 @@
+{
+  "name": "Small Business Ledger",
+  "description": "A clean, modern local accounting app for small businesses to track revenue, expenses, and net profit with intuitive visual analytics and local Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
